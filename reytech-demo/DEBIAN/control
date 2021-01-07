@@ -1,0 +1,8 @@
+Package: reytech-demo
+Version: 0.0.4
+Section: trusty
+Priority: low
+Architecture: amd64
+Depends: openjdk-8-jdk, git
+Description: test package
+Maintainer: ejb486@gmail.com
